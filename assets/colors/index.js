@@ -5,4 +5,6 @@ export default {
   secondary: "#f26c68",
   textLight: "#cdcdcd",
   price: "#e4723c",
+  white: "#fff",
+  black: "#000",
 };
